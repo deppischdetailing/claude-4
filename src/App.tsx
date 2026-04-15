@@ -15,7 +15,7 @@ import {
 } from "lucide-react";
 import { useState, FormEvent } from "react";
 
-const FORMSPREE_ID = "rickydepp11@gmail.com"; // Replace with your Formspree ID after signing up at formspree.io
+const FORMSPREE_ID = "mojyjdow"; // 1. Create a form at formspree.io 2. Get the ID (e.g., "mjvqpqrq") 3. Paste it here
 
 const services = [
   {
@@ -429,4 +429,3 @@ export default function App() {
     </div>
   );
 }
-
